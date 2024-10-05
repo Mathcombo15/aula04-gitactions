@@ -47,7 +47,6 @@ jobs:
 
   tarefa3: 
       name: Terceira tarefa
-      needs: tarefa2 
       runs-on: ubuntu-latest
       
       steps: 
